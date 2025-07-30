@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
 <h3 align="center">A passionate MERN stack developer, AI/ML enthusiast, and PC Gamer</h3>
 
-<img align="right" alt="Coding" width="350" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpn0tEIzsZp7K6KfDG_Aj0X_1vD4R_ZI2ZzQ&s](https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif)">
+
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=off-aditya&label=Profile%20views&color=0e75b6&style=flat" alt="off-aditya" /> </p>
 
