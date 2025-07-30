@@ -1,8 +1,9 @@
 <div align="center"> <img src="https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png"> </div>
 
 <h2>💫 About Me:</h2> <br>  
-🔭 I’m currently working on Neon-Notion<br><br>🌱 I’m currently learning Machine Learning, Data Science And Full Stack(MERN).<br><br>👯 I’m looking to collaborate on Vision-Aid<br><br>📫 How to reach me official.aditya.singh.343@gmail.com<br><br>⚡ Fun fact Anime fuels my imagination, and gaming sharpens my focus — I’m all about pixels and plots.
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
+🔭 I’m currently working on Neon-Notion<br><br>🌱 I’m currently learning Machine Learning, Data Science And Full Stack(MERN).<br><br>👯 I’m looking to collaborate on Vision-Aid<br><br>📫 How to reach me official.aditya.singh.343@gmail.com<br><br>⚡Fun Fact: Anime fuels my imagination, and gaming sharpens my focus.
+
 
 
 ## 🌐 Socials:
@@ -15,13 +16,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Off-Aditya&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Off-Aditya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Off-Aditya&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Off-Aditya&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
