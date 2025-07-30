@@ -1,6 +1,6 @@
 <div align="center"> <img src="https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png"> </div>
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
-# 💫 About Me:
+<h2>💫 About Me:</h2> <br>  
 🔭 I’m currently working on Neon-Notion<br><br>🌱 I’m currently learning Machine Learning, Data Science And Full Stack(MERN).<br><br>👯 I’m looking to collaborate on Vision-Aid<br><br>📫 How to reach me official.aditya.singh.343@gmail.com<br><br>⚡ Fun fact Anime fuels my imagination, and gaming sharpens my focus — I’m all about pixels and plots.
 
 
