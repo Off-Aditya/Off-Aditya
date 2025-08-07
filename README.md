@@ -8,6 +8,12 @@
 👯 I’m looking to collaborate on **Vision-Aid**<br><br>
 📫 How to reach me **official.aditya.singh.343@gmail.com**<br><br>
 ⚡**Fun Fact**: Anime fuels my imagination, and gaming sharpens my focus.
+<!-- Fading lines -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Fading Line Separator" width="100%" />
+</p>
+
+---
 
 <br><br>
 
