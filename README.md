@@ -3,7 +3,7 @@
 <h1>💫 About Me:</h1>
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
 
-🔭 I’m currently working on **Neon-Notion**<br><br>
+🔭 I’m currently working on **JuryBot**<br><br>
 🌱 I’m currently learning **Machine Learning**, **Data Science** And **Full Stack(MERN)**.<br><br>
 👯 I’m looking to collaborate on **Vision-Aid**<br><br>
 📫 How to reach me **official.aditya.singh.343@gmail.com**<br><br>
